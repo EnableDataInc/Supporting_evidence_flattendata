@@ -1,5 +1,4 @@
-﻿"id"|"patient_id"|"status"|"type_system"|"type_code"|"created"|"diagnosis_code"|"item_code"
-"explanationofbenefit.2024.lsc.0.95036.1"|"patient.2024.lsc.0.95036"|"active"|"http://terminology.hl7.org/CodeSystem/claim-type"|"institutional"|"2022-06-16T00:00:00.000-05:00"|"S06.890A"|"83655"
+﻿"explanationofbenefit.2024.lsc.0.95036.1"|"patient.2024.lsc.0.95036"|"active"|"http://terminology.hl7.org/CodeSystem/claim-type"|"institutional"|"2022-06-16T00:00:00.000-05:00"|"S06.890A"|"83655"
 "explanationofbenefit.2024.lsc.0.95036.2"|"patient.2024.lsc.0.95036"|"active"|"http://terminology.hl7.org/CodeSystem/claim-type"|"institutional"|"2023-08-26T00:00:00.000-05:00"|"S82.135R"|"83655"
 "explanationofbenefit.2024.lsc.0.95023.2"|"patient.2024.lsc.0.95023"|"active"|"http://terminology.hl7.org/CodeSystem/claim-type"|"institutional"|"2024-03-24T00:00:00.000-05:00"|"S72.143A"|"83655"
 "explanationofbenefit.2024.lsc.0.95011.1"|"patient.2024.lsc.0.95011"|"active"|"http://terminology.hl7.org/CodeSystem/claim-type"|"institutional"|"2022-12-28T00:00:00.000-05:00"|"O61.9"|"83655"

@@ -1,2 +1,0 @@
-﻿"id"|"patient_id"|"status"|"code_system"|"code_value"|"performed_start"|"performed_end"
-"proc.procedure.2024.lsc.0.96267.29"|"patient.2024.lsc.0.96267"|"completed"|"http://snomed.info/sct/731000124108"|"170935008"|"2024-04-14T00:00:00.000-05:00"|"2024-04-14T00:00:00.000-05:00"

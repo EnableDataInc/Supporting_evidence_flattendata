@@ -106,26 +106,26 @@ def extract_and_export_tables(input_file, output_folder):
     # Ensure output folder exists
     os.makedirs(output_folder, exist_ok=True)
 
-    # Export each table to a pipe-delimited CSV file with double quotes around fields and include header
+    # Export each table to a pipe-delimited CSV file with double quotes around fields and exclude header
     pd.DataFrame(patients).to_csv(
         os.path.join(output_folder, 'patients.csv'), 
-        index=False, sep='|', encoding='utf-8-sig', header=True, quoting=1
+        index=False, sep='|', encoding='utf-8-sig', header=False, quoting=1
     )
     pd.DataFrame(claims).to_csv(
         os.path.join(output_folder, 'claims.csv'), 
-        index=False, sep='|', encoding='utf-8-sig', header=True, quoting=1
+        index=False, sep='|', encoding='utf-8-sig', header=False, quoting=1
     )
     pd.DataFrame(observations).to_csv(
         os.path.join(output_folder, 'observations.csv'), 
-        index=False, sep='|', encoding='utf-8-sig', header=True, quoting=1
+        index=False, sep='|', encoding='utf-8-sig', header=False, quoting=1
     )
     pd.DataFrame(explanation_of_benefits).to_csv(
         os.path.join(output_folder, 'explanation_of_benefits.csv'), 
-        index=False, sep='|', encoding='utf-8-sig', header=True, quoting=1
+        index=False, sep='|', encoding='utf-8-sig', header=False, quoting=1
     )
     pd.DataFrame(procedures).to_csv(
         os.path.join(output_folder, 'procedures.csv'), 
-        index=False, sep='|', encoding='utf-8-sig', header=True, quoting=1
+        index=False, sep='|', encoding='utf-8-sig', header=False, quoting=1
     )
 
 # Input and output paths

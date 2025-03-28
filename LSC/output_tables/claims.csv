@@ -1,5 +1,4 @@
-﻿"id"|"patient_id"|"status"|"type_system"|"type_code"|"created"|"provider"|"diagnosis_code"|"item_code"
-"claim.2024.lsc.0.95036.1"|"patient.2024.lsc.0.95036"|"active"|"http://terminology.hl7.org/CodeSystem/claim-type"|"institutional"|"2022-06-16T00:00:00.000-05:00"|"Organization/organization.2024.lsc.0.95036.57"|"S06.890A"|"83655"
+﻿"claim.2024.lsc.0.95036.1"|"patient.2024.lsc.0.95036"|"active"|"http://terminology.hl7.org/CodeSystem/claim-type"|"institutional"|"2022-06-16T00:00:00.000-05:00"|"Organization/organization.2024.lsc.0.95036.57"|"S06.890A"|"83655"
 "claim.2024.lsc.0.95036.2"|"patient.2024.lsc.0.95036"|"active"|"http://terminology.hl7.org/CodeSystem/claim-type"|"institutional"|"2023-08-26T00:00:00.000-05:00"|"Organization/organization.2024.lsc.0.95036.58"|"S82.135R"|"83655"
 "claim.2024.lsc.0.95166.1"|"patient.2024.lsc.0.95166"|"active"|"http://terminology.hl7.org/CodeSystem/claim-type"|"institutional"|"2024-07-30T00:00:00.000-05:00"|"Organization/organization.2024.lsc.0.95166.256"|"O99.331"|"unknown"
 "claim.2024.lsc.0.95034.1"|"patient.2024.lsc.0.95034"|"active"|"http://terminology.hl7.org/CodeSystem/claim-type"|"institutional"|"2024-11-24T00:00:00.000-05:00"|"Organization/organization.2024.lsc.0.95034.54"|"S66.519S"|"G0182"
