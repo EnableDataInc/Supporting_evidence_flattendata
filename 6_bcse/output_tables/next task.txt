@@ -1,0 +1,9 @@
+gsd aab
+
+******************
+steps for converting support evidence doc to csv tables*****************
+
+setp 1: upload the support evidence document to copiot and ask below promt mesaage:
+
+Prompt1:
+You are a python code developer.  Determine best approach to convert this ndjson file to a flat csv file that is easy to use and query without losing any of the data elements
