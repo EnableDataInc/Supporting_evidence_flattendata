@@ -1,0 +1,6 @@
+Field map for table: parameters
+---------------------------
+Position | Field Name
+---------------------------
+       1 | id
+       2 | resourceType

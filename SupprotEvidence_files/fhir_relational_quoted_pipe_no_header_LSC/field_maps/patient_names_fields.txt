@@ -1,0 +1,8 @@
+Field map for table: patient_names
+---------------------------
+Position | Field Name
+---------------------------
+       1 | id
+       2 | patient_id
+       3 | family
+       4 | given

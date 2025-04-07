@@ -1,0 +1,12 @@
+Field map for table: patients
+---------------------------
+Position | Field Name
+---------------------------
+       1 | id
+       2 | parameters_id
+       3 | gender
+       4 | birthDate
+       5 | race_code
+       6 | race_system
+       7 | ethnicity_code
+       8 | ethnicity_system

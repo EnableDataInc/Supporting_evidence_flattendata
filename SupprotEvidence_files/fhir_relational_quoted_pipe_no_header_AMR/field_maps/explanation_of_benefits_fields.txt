@@ -1,0 +1,10 @@
+Field map for table: explanation_of_benefits
+---------------------------
+Position | Field Name
+---------------------------
+       1 | id
+       2 | parameters_id
+       3 | status
+       4 | type
+       5 | patient_id
+       6 | outcome

@@ -1,0 +1,10 @@
+Field map for table: eob_adjudications
+---------------------------
+Position | Field Name
+---------------------------
+       1 | id
+       2 | eob_item_id
+       3 | category_code
+       4 | category_system
+       5 | amount_value
+       6 | amount_currency

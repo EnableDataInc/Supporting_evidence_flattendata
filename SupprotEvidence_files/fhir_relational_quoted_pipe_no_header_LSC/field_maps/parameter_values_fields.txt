@@ -1,0 +1,9 @@
+Field map for table: parameter_values
+---------------------------
+Position | Field Name
+---------------------------
+       1 | id
+       2 | parameters_id
+       3 | name
+       4 | value_type
+       5 | value

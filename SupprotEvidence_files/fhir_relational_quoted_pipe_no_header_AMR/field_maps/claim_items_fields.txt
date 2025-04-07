@@ -1,0 +1,10 @@
+Field map for table: claim_items
+---------------------------
+Position | Field Name
+---------------------------
+       1 | id
+       2 | claim_id
+       3 | sequence
+       4 | productOrService_code
+       5 | productOrService_system
+       6 | servicedDate

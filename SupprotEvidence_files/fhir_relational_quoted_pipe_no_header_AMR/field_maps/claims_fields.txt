@@ -1,0 +1,9 @@
+Field map for table: claims
+---------------------------
+Position | Field Name
+---------------------------
+       1 | id
+       2 | parameters_id
+       3 | type
+       4 | patient_id
+       5 | servicedDate

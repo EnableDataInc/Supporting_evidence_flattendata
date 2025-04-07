@@ -1,0 +1,8 @@
+Field map for table: patient_telecom
+---------------------------
+Position | Field Name
+---------------------------
+       1 | id
+       2 | patient_id
+       3 | system
+       4 | value

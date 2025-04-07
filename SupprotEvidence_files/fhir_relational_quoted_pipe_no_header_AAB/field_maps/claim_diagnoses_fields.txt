@@ -1,0 +1,9 @@
+Field map for table: claim_diagnoses
+---------------------------
+Position | Field Name
+---------------------------
+       1 | id
+       2 | claim_id
+       3 | sequence
+       4 | code
+       5 | system

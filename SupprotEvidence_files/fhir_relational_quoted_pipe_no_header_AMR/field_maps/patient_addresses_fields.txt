@@ -1,0 +1,10 @@
+Field map for table: patient_addresses
+---------------------------
+Position | Field Name
+---------------------------
+       1 | id
+       2 | patient_id
+       3 | line
+       4 | city
+       5 | state
+       6 | postalCode
